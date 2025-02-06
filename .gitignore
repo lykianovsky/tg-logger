@@ -1,0 +1,5 @@
+node_modules
+.idea
+coverage
+.DB_STORE
+.env.local

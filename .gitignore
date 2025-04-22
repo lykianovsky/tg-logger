@@ -3,3 +3,4 @@ node_modules
 coverage
 .DB_STORE
 .env.local
+dist
